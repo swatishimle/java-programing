@@ -8,4 +8,5 @@ public class DMQues1 {
 		}
 		System.out.println("Bye");
 	}
+	
 }
